@@ -7,7 +7,7 @@
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.12.3"
   },
-  "name": "spaceapi",
+  "name": "clear",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
